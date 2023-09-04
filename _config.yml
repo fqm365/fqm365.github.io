@@ -1,4 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fqm365.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "academic" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+title: "FQM-365" # the name of your site, e.g. ACME Corp.
+description: "Official FQM-365 research group webpage"
+theme: academic-jekyll-theme
