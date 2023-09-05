@@ -8,7 +8,11 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Congresos</h3>
     {% for course in site.data.settings.congresos %}
-      <p><a href="{{ site.github.url }}/congresos/{{ course.url}}">{{ course.name }}</a></p>
+    	{% if course.url %}
+      <p><a href="{{ site.github.url }}/congresos/{{ course.url }}">{{ course.name }}</a></p>
+      {% else %}
+      <p>{{ course.name }}</p>
+      {% endif %}
     {% endfor %}
   </div>
 </div>
