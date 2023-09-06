@@ -9,9 +9,52 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 congresos:
-- {name: 'Vector Calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures'}
+-
+   name: 8th Italian Conference on Survey Methodology (ITACOSM 2023). Ponencia invitada. Ramón Ferri-García, María del Mar Rueda, Jorge Luis Rueda Sánchez. 2023
+-
+   name: 8th Italian Conference on Survey Methodology (ITACOSM 2023). Ponencia invitada. Beatriz Cobo, María del Mar Rueda. 2023
+-
+   name: Second International Conference on Mathematical And Computational Modelling, Approximation and Simulation (MACMAS 2023). Participación oral. Ramón Ferri-García, Jorge Rueda, Beatriz Cobo, María del Mar Rueda. 2023
+-
+   name: Second International Conference on Mathematical And Computational Modelling, Approximation and Simulation (MACMAS 2023). Participación oral. Ramón Ferri-García, Jorge Rueda, Beatriz Cobo, María del Mar Rueda. 2023
+-
+   name: XXXIX Congreso Nacional de Estadística e Investigación Operativa y de las XIII Jornadas de Estadística Pública (SEIO 2022). Participación oral. Luis Castro Martín; Ramón Ferri García; María del Mar Rueda García. 2022
+-
+   name: XXXIX Congreso Nacional de Estadística e Investigación Operativa y de las XIII Jornadas de Estadística Pública (SEIO 2022). Participación oral. Ú. Torres Parejo, R. Enrique Guillén, M. D. Ruiz Jiménez. 2022
+-
+   name: XXXIX Congreso Nacional de Estadística e Investigación Operativa y de las XIII Jornadas de Estadística Pública (SEIO 2022). Ponencia invitada. Ramón Ferri García; Jean-François Beaumont; Keven Bosa; Joanne Charlebois; Kenneth Chu. 2022
+-
+   name: XXXIX Congreso Nacional de Estadística e Investigación Operativa y de las XIII Jornadas de Estadística Pública (SEIO 2022). Ponencia invitada. M. M. Rueda, L. Castro, B. Cobo Rodríguez, R. Ferri , S. Pasadas del Amo. 2022
+-
+   name: II Congreso Investigación PTS. Fundación PTS. Presentación oral. Luis Castro Martín; María del Mar Rueda García; Andrés Cabrera León; Carmen Sánchez Cantalejo; Ramón Ferri García. 2022
+-
+   name: II Congreso Investigación PTS. Fundación PTS. Presentación oral. Andrés Cabrera León; Carmen Sánchez Cantalejo; María del Mar Rueda García; et al.; Antonio Daponte Codina. 2022
+-
+   name: 51st Scientific Meeting of the Italian Statistical Society (SIS 2022). Società Italiana di Statistica. Ponencia invitada. María del Mar Rueda García; Ramón Ferri García; Luis Castro Martín. 2022
+-
+   name: BNU Workshop on Survey Statistics. Baltic-Nordic-Ukrainian Network on Survey Statistics. Keynote. María del Mar Rueda García; Ramón Ferri García; Luis Castro Martín. 2022
+-
+   name: BNU Workshop on Survey Statistics. Baltic-Nordic-Ukrainian Network on Survey Statistics. Participación oral. María del Mar Rueda García. Luis Castro Martín ; B. Cobo,Ramón Ferri García; Sara Pasadas. 2022
+-
+   name: BNU Workshop on Survey Statistics. Baltic-Nordic-Ukrainian Network on Survey Statistics. Participación oral. María del Mar Rueda García; Luis Castro Martín; Carmen Sánchez Cantalejo; Ramón Ferri García; Jorge Hidalgo Calderón; Andrés Cabrera León. 2022
+-
+   name: International Conference Computational and Mathematical Methods in Science and Engineering 2021. Comunicación oral. Martínez Puertas, Sergio; Rueda Garcia, María del Mar, Illescas Manzano, María. 2021
+-
+   name: International Conference Computational and Mathematical Methods in Science and Engineering 2021. Comunicación oral. Rueda, M., Ferri-García, R., Castro Martín, L. 2021
+-
+   name: International Conference Computational and Mathematical Methods in Science and Engineering 2021. Comunicación oral. Castro Martín, L, Rueda, M., Ferri-García, R. 2021
+-
+   name: 2021 International Methodology Symposium, Statistics Canada. Conferencia invitada. Ferri García, R. 2021
+-
+   name: 5th International Conference on Advanced Research Methods and Analytics. Comunicación oral. Jorge Rueda, Beatriz Cobo, Luis Castro. 2023
+-
+   name: 5th International Conference on Advanced Research Methods and Analytics. Comunicación oral. Beatriz Cobo, Luis Castro, Jorge Rueda. 2023
+-
+   name: XXI edición de las Jornadas de Estadística de las Comunidades Autónomas (JECAS 2021). Comunicación oral. Luis Castro Martín; María del Mar Rueda García; Andrés Cabrera León; Carmen Sánchez-Cantalejo Garrido; Ramón Ferri García; Jorge Hidalgo Calderón; Iria Enrique. 2021
+-
+   name: XL reunión anual de la sociedad española de epidemiología. Comunicación oral. Luis Castro Martín; María del Mar Rueda García; Carmen Sánchez-Cantalejo Garrido; Ramón Ferri García; Jorge Hidalgo Calderón; Andrés Cabrera. 2022
+-
+   name: XI congreso nacional de sociología. Comunicación oral. Jorge Rueda, María del Mar Rueda, Ramón Ferri. 2022
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
