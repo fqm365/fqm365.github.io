@@ -1,5 +1,5 @@
 url: "https://fqm365.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "FQM-365" # the name of your site, e.g. ACME Corp.
-description: "Página web oficial del grupo de investigación FQM-365"
+title: "A-FQM-170-UGR20" # the name of your site, e.g. ACME Corp.
+description: "Técnicas modernas de Análisis de datos para la Estimación en encuestas por muestreo"
 lang: "es-ES"

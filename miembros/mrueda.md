@@ -11,4 +11,4 @@ Email: mrueda@ugr.es
 
 ---
 
-Investigadora Principal del grupo.
+Investigadora Principal del proyecto.
